@@ -11,13 +11,13 @@ namespace ConsoleApplication1
         {
            
             Console.BackgroundColor = ConsoleColor.Blue;
-            Console.ForegroundColor = ConsoleColor.Black;
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("********************");
             Console.WriteLine("**** Мой проект ****");
             Console.WriteLine("********************");
             
             Console.BackgroundColor = ConsoleColor.Blue;
-            Console.ForegroundColor = ConsoleColor.Green;
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine();
             Console.WriteLine("Hello, World!");
 
